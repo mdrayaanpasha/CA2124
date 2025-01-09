@@ -123,10 +123,10 @@ void Insert_LISTNODE(int num) {
         curr = curr->Next;
     }
 
-    if (prev == NULL) {  // Insert at the head
+    if (prev == NULL) { 
         newNode->Next = Head;
         Head = newNode;
-    } else {  // Insert after the prev node
+    } else { 
         prev->Next = newNode;
         newNode->Next = curr;
     }
@@ -174,7 +174,7 @@ int Delete_Last_LISTNODE() {
     if (prev) {
         prev->Next = NULL;
     } else {
-        Head = NULL;  // If there was only one element
+        Head = NULL; 
     }
 
     free(curr);
@@ -195,12 +195,12 @@ int Search_LISTNODE(int num) {
     Curr = Head;
     while (Curr) {
         if (Curr->Data == num) {
-            return 1;  // Found
+            return 1; 
         }
         Curr = Curr->Next;
     }
 
-    return -1;  // Not found
+    return -1;  
 }
 
 void Print_LISTNODE() {
