@@ -1,9 +1,10 @@
-# CA2124: Data Structures & Algorithms (Fall 2025)
+# CA2124: Data Structures Using C (Fall 2025)
 
-> *"It was the Fall of 2025—a season of late nights, countless cups of coffee, and the quiet satisfaction of a segmentation fault finally being resolved. This class was one of the best experiences of my academic journey, and this repository contains the logic and algorithms that defined that time."*
 
 ## 🖋️ Overview
-This repository serves as a digital archive for **CA2124**, a foundational course in Data Structures and Algorithms. The code within demonstrates a transition from theoretical concepts to practical, low-level implementations in C. It covers the essential building blocks of software engineering, focusing on manual memory management, pointer manipulation, and efficient data organization.
+This repository is digital archive for **CA2124**, a foundational course in Data Structures and Algorithms @ St. Joseph’s University, Bengaluru.
+The code within covers low-level implementations in C, manual memory management, pointer manipulation, efficient data organization.. and most 
+importantly how to write good quality code without forgettng where to “comment” 😉
 
 ---
 
@@ -36,10 +37,7 @@ Moving beyond linear structures into hierarchical data representation.
 - **Memory Management**: Extensive use of `malloc`, `free`, and pointer arithmetic.
 - **Paradigm**: Procedural programming with a focus on modularity and efficiency.
 
-## 🎓 Reflection
-These files are more than just code; they represent the "aha!" moments when complex abstractions became intuitive. From the first time a linked list finally linked, to the elegance of a recursive tree traversal, CA2124 was a pivotal chapter in my growth as a developer.
-
 ---
 **Author:** Rayaan Pasha  
-**Semester:** Fall 2025  
-**Course:** CA2124 - Data Structures
+**Semester:** 2nd Semester, BCA
+**Course:** CA2124 - Data Structures Using C
