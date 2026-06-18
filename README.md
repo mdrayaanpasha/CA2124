@@ -1,4 +1,4 @@
-# CA2124: Data Structures Using C (Fall 2025)
+# CA2124: Data Structures Using C (2nd Sem, Class of 2027, Academic year 2024-25)
 
 
 ## 🖋️ Overview
