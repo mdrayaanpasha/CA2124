@@ -4,7 +4,8 @@
 ## 🖋️ Overview
 This repository is digital archive for **CA2124**, a foundational course in Data Structures and Algorithms @ St. Joseph’s University, Bengaluru.
 The code within covers low-level implementations in C, manual memory management, pointer manipulation, efficient data organization.. and most 
-importantly how to write good quality code without forgettng where to “comment” 😉
+importantly how to write good quality code without forgettng where to “comment” 😉.
+[Website for clean interface](https://mdrayaanpasha.github.io/CA2124/)
 
 ---
 
